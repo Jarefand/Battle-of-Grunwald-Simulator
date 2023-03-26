@@ -1,0 +1,31 @@
+﻿  CGrafika.cpp
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\CGrafika.cpp(57,37): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\CGrafika.cpp(57,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\CGrafika.cpp(135,111): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\CGrafika.cpp(135,69): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\CGrafika.cpp(150,105): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\CGrafika.cpp(150,66): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\CGrafika.cpp(161,116): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\CGrafika.cpp(161,73): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\CGrafika.cpp(175,116): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\CGrafika.cpp(175,71): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Grunwald_1410.cpp
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\Grunwald_1410.cpp(31,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Jazda.cpp
+  Jednostka.cpp
+  Map.cpp
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\Map.cpp(234,22): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\Map.cpp(253,22): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Pospolite_rusz.cpp
+  Symulacja.cpp
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\Symulacja.cpp(202,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\Symulacja.cpp(203,6): warning C4101: "los": lokalna zmienna, do której nie istnieje odwołanie
+  Zbrojni.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\Zbrojni.cpp(354): warning C4715: "Zbrojni::aStarSearch”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\Pospolite_rusz.cpp(353): warning C4715: "Pospolite_rusz::aStarSearch”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\Grunwald_1410\Jazda.cpp(548): warning C4715: "Jazda::aStarSearch”: niewszystkie ścieżki kodu zwracają wartość
+  All 618 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Grunwald_1410.vcxproj -> C:\Users\Lenovo\Documents\6 semestr\PJC\Grunwald\Grunwald_1410\x64\Release\Grunwald_1410.exe
